@@ -1,6 +1,8 @@
 # HiddenDiT
 "A Hidden Semantic Bottleneck in Conditional Embeddings of Diffusion Transformers", the paper has been accepted at ICLR 2026
 
+**Authors: Trung X. Pham, Kang Zhang, Ji Woo Hong, Chang D. Yoo**
+
 # Keywords: 
 conditional embeddings, diffusion models, generative AI, transformer-based diffusion, sparse representation learning, efficient learning
 
